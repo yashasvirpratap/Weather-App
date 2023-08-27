@@ -1,7 +1,7 @@
 # Weather-App
 Mobile App Development Project
 
-- Built using Adroind Studio
+- Built using Android Studio
 - Language Used- Java
 
 <h3>Features:</h3>
